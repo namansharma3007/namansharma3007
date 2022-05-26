@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram @_namansharma_007](https://www.instagram.com/_namansharma_007/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can listen to all kinds of music.. Literally Anything And vibe on it for days and still won't know the lyrics after months...LOL...
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namansharma3007&layout=compact)](https://github.com/namansharma3007/github-readme-stats)
 ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namansharma3007&theme=radical&show_icons=true)
