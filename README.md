@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=namansharma3007&theme=radical&show_icons=true"/>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img align="left"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
