@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can listen to all kinds of music.. Literally Anything And vibe on it for days and still won't know the lyrics after months...LOL...
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namansharma3007&theme=radical&show_icons=true)
