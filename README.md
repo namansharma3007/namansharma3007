@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can listen to all kinds of music.. Literally Anything And vibe on it for days and still won't know the lyrics after months...LOL...
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansharma3007&layout=demo)](https://github.com/namansharma3007/github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansharma3007&layout=compact)](https://github.com/namansharma3007/github-readme-stats"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=namansharma3007&theme=radical&show_icons=true"/>
