@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that makes me a better person
 - 🤔 I’m looking for help with Java Projects
 - 💬 Ask me about Any tech related stuff, FrontEnd, Python
-- 📫 How to reach me: [Instagram @_namansharma_007](https://www.instagram.com/_namansharma_007/)
-- <a herf="https://www.instagram.com/_namansharma_007/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-- [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_namansharma_007/)
+- 📫 How to reach me:[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_namansharma_007/)
 - 😄 Pronouns: He/His
 - 🎸 Guitar: I know this thing 😎
 - ⚡ Fun fact: I can listen to all kinds of music🎸.. Literally Anything and vibe with it for months and still won't know the lyrics after that...LOL...
