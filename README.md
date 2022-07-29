@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 - <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> : [@_namansharma_007](https://www.instagram.com/_namansharma_007/)
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> : namansharma3007c@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 🎸 Guitar: I know this thing 😎
 - ⚡ Fun fact: I can listen to all kinds of music🎸.. Literally Anything and vibe with it for months and still won't know the lyrics after that...LOL...
 
