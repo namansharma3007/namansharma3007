@@ -17,7 +17,6 @@
 - 📫 How to reach me **namansharma3007c@gmail.com**
 
 - ⚡ Fun fact **I can eat ICE-CREAM 🍧 366 days**
-- www.linkedin.com/in/naman-sharma-b46950226
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
