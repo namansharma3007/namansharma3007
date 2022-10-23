@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to any field**
 
-- 👨‍💻 All of my projects are available at [SOURCE CODE](https://github.com/namansharma3007?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/namansharma3007?tab=repositories](https://github.com/namansharma3007?tab=repositories)
 
 - 🎸 Guitar: [I know this thing 😎](I know this thing 😎)
 
@@ -15,10 +15,12 @@
 
 - 📫 How to reach me **namansharma3007c@gmail.com**
 
-- ⚡ Fun fact **I can eat ICE-CREAM 🍧 all day**
+- ⚡ Fun fact **I can eat ICE-CREAM 🍧 366 days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/namansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namansharma" height="30" width="40" /></a>
+<a href="https://instagram.com/_namansharma_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_namansharma_007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@namansharma3007c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namansharma3007c" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/namansharma3007c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namansharma3007c" height="30" width="40" /></a>
 </p>
