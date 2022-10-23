@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Anything related to: FRONT-END and BACK-END development**
 
-- 📫 How to reach me **namansharma3007c@gmail.com**
+- 📫 How to reach me <a href:"mailto:namansharma3007c@gmail.com"><b>namansharma3007c@gmail.com</b></a>
 
 - ⚡ Fun fact **I can eat ICE-CREAM 🍧 366 days**
 
