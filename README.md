@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Sharma</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
-<img align="right" alt="coding0 width="400" src="https://user-images.githubusercontent.com/96349715/197403594-591bcd88-fde2-4de3-8267-35f156fca315.png" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/96349715/197403594-591bcd88-fde2-4de3-8267-35f156fca315.png" />
 
 
 - 🔭 I’m currently working on **MERN**
