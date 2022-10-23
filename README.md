@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to any field**
 
-- 👨‍💻 All of my projects are available at [https://github.com/namansharma3007?tab=repositories](https://github.com/namansharma3007?tab=repositories)
+- 👨‍💻 All of my projects are available at [SOURCE CODE](https://github.com/namansharma3007?tab=repositories)
 
 - 🎸 Guitar: [I know this thing 😎](I know this thing 😎)
 
