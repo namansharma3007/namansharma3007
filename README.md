@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **any project related to any field**
 
-- 👨‍💻 All of my projects are available at [https://github.com/namansharma3007?tab=repositories](https://github.com/namansharma3007?tab=repositories)
+- 👨‍💻 All of my projects are available at [MY PROJECTS](https://github.com/namansharma3007?tab=repositories)
 
 - 🎸 Guitar: [I know this thing 😎](I know this thing 😎)
 
 - 💬 Ask me about **Anything related to: FRONT-END and BACK-END development**
 
-- 📫 How to reach me <a href:"mailto:namansharma3007c@gmail.com" target="blank">namansharma3007c@gmail.com</a>
+- 📫 How to reach me **namansharma3007c@gmail.com**
 
 - ⚡ Fun fact **I can eat ICE-CREAM 🍧 366 days**
 
