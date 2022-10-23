@@ -12,7 +12,7 @@
 
 - 🎸 Guitar: [I know this thing 😎](I know this thing 😎)
 
-- 💬 Ask me about **Anything related to: FRONT-END and BACK-END development**
+- 💬 Ask me about **Anything related to: **FRONT-END** and **BACK-END** development**
 
 - 📫 How to reach me **namansharma3007c@gmail.com**
 
