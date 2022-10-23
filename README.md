@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Sharma</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
-<img align="right" alt="coding0 width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0TGaq8aIWirxK28q_M9rYF&ust=1666628205689000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIj02YPg9voCFQAAAAAdAAAAABAu" />
+<img align="right" alt="coding0 width="400" src="![image](https://user-images.githubusercontent.com/96349715/197403594-591bcd88-fde2-4de3-8267-35f156fca315.png)" />
 
 
 - 🔭 I’m currently working on **MERN**
