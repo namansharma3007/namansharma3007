@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Sharma</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namansharma3007&label=Profile%20views&color=0e75b6&style=flat" alt="namansharma3007" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=namansharma3007&label=Profile%20views&color=0e75b6&style=flat" alt="namansharma3007" /> </p>*/
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/96349715/197403594-591bcd88-fde2-4de3-8267-35f156fca315.png" />
 
