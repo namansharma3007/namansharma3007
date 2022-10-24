@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [MY PROJECTS](https://github.com/namansharma3007?tab=repositories)
 
-- 🎸 Guitar: [I know this thing 😎](I know this thing 😎)
+- 🎸 Guitar: I know this thing 😎
 
 - 💬 Ask me about anything related to: **FRONT-END** and **BACK-END** development
 
