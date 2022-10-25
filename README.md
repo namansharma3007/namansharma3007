@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-sharma-b46950226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namansharma" height="30" width="40" /></a>
-<a href="https://instagram.com/_namansharma_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_namansharma_007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@namansharma3007c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namansharma3007c" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namansharma3007c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namansharma3007c" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naman-sharma-b46950226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namansharma" height="30" width="40" /></a>
+<a href="https://instagram.com/_namansharma_007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_namansharma_007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/namansharma3007c" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namansharma3007c" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/namansharma3007c" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namansharma3007c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
