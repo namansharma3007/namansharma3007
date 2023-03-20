@@ -27,7 +27,7 @@
   <span>LinkedIN</span></a>
   <br/>
 <a href="https://instagram.com/_namansharma_007" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="20" height="20"/>
+  <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" width="20" height="20"/>
   <span>Instagram</span></a>
   <br/>
 </p>
