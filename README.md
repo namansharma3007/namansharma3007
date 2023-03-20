@@ -22,7 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-sharma-b46950226" target="_blank" margin="10"><span>LinkedIN</span></a>
+<a href="https://linkedin.com/in/naman-sharma-b46950226" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="20" height="20"/>
+  <span>LinkedIN</span></a>
   <br/>
 <a href="https://instagram.com/_namansharma_007" target="_blank"><span>Instagram</span></a>
   <br/>
