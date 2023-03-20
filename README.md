@@ -23,10 +23,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naman-sharma-b46950226" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="20" height="20"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" width="20" height="20"/>
   <span>LinkedIN</span></a>
   <br/>
-<a href="https://instagram.com/_namansharma_007" target="_blank"><span>Instagram</span></a>
+<a href="https://instagram.com/_namansharma_007" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="20" height="20"/>
+  <span>Instagram</span></a>
   <br/>
 </p>
 
