@@ -19,7 +19,7 @@ I bridge the gap between **Web2 scalability** and **Web3 decentralization**. Wit
 - 🏆 **Competitive Programming:** 4 ⭐️ coder on CodeChef.
 - 🏃‍♂️ **Life Philosophy:** If my code has a bug, I chase it down with the same intensity I use to finish a 10k.
 - 📫 **Reach me at:** `namansharma3007c@gmail.com`
-- 📄 **View my full resume:** [View My Full Resume](https://miniurl-v1.vercel.app/jSLeot2)
+- 📄 **View my full resume:** [View My Full Resume]([https://miniurl-v1.vercel.app/jSLeot2](https://drive.google.com/file/d/1nemmgi3SgR7KFofnvMUdOZpA4mVOi8dP/view?usp=sharing))
 
 ---
 
